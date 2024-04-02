@@ -12,5 +12,5 @@ apt dist-upgrade -y
 apt full-upgrade
 ```
 ```
-apt autoremove-y
+apt autoremove -y
 ```
