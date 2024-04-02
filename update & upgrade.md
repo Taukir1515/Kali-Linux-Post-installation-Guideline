@@ -6,7 +6,7 @@ apt update && apt upgrade -y
 apt list --upgradeable
 ```
 ```
-apt dist-upgrade
+apt dist-upgrade -y
 ```
 ```
 apt full-upgrade
