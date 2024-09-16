@@ -9,7 +9,7 @@ apt list --upgradeable
 apt dist-upgrade -y
 ```
 ```
-apt full-upgrade
+apt full-upgrade -y
 ```
 ```
 apt autoremove -y
